@@ -1,0 +1,73 @@
+{
+    "pollen": {
+        "today": {
+            "tree": {
+                "count": 109.25,
+                "risk": "Moderate"
+            },
+            "grass": {
+                "count": 108.26,
+                "risk": "Low"
+            },
+            "weed": {
+                "count": 90,
+                "risk": "Low"
+            },
+            "day":"Tuesday"
+        },
+        "tomorrow": {
+            "tree": {
+                "count": 97.3799999999999954525264911353588104248046875,
+                "risk": "Low"
+            },
+            "grass": {
+                "count": 206,
+                "risk": "Low"
+            },
+            "weed": {
+                "count": 300,
+                "risk": "Low"
+            },
+            "day":"Wednesday"
+        },
+        "after_tomorrow": {
+            "tree": {
+                "count": 238.419999999999987494447850622236728668212890625,
+                "risk": "High"
+            },
+            "grass": {
+                "count": 190,
+                "risk": "Low"
+            },
+            "weed": {
+                "count": 150.5,
+                "risk": "Low"
+            },
+            "day":"Thursday"
+        }
+    },
+    "air_quality": {
+        "placeId": "189492cc210f469efbbc7bfd672af496d8fd5cc8eacba8fada5607ee35a7683e",
+        "CO": 0.70699999999999996180832795289461500942707061767578125,
+        "NO2": 26.495999999999998664179656771011650562286376953125,
+        "OZONE": 40.9470000000000027284841053187847137451171875,
+        "PM10": 106.1290000000000048885340220294892787933349609375,
+        "PM25": 11.150999999999999801048033987171947956085205078125,
+        "SO2": 8.4659999999999993036681189551018178462982177734375,
+        "city": "Bangalore",
+        "countryCode": "IN",
+        "division": "Bangalore",
+        "lat": 12.9891199999999997771737980656325817108154296875,
+        "lng": 77.574984999999998080966179259121417999267578125,
+        "placeName": "Seshadripuram",
+        "postalCode": "560020",
+        "state": "Karnataka",
+        "updatedAt": "2022-02-01 09:00:00",
+        "AQI": 76,
+        "aqiInfo": {
+            "pollutant": "PM10",
+            "concentration": 106.1290000000000048885340220294892787933349609375,
+            "category": "Moderate"
+        }
+    }
+}

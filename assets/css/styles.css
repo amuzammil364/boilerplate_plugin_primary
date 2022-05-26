@@ -1,0 +1,38 @@
+#pollen_chart_container{
+    max-width: 800px!important;
+    margin: 0 auto!important;
+}
+#baz_air_quality_index{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 30px;
+}
+#baz_air_quality_index h5{
+    width: 30%; 
+    font-size: 18px!important;
+    margin: 0px!important;
+    text-transform: capitalize;
+
+}
+#baz_air_quality_index p{
+    width: 70%;
+    text-align: right!important;
+    font-size: 14px!important;
+    margin: 0px!important;
+}
+#baz_pollen_chart_container h4{
+    text-align: center;
+}
+#baz_pollen_chart_container{
+    position: relative;
+}
+.baz_risk_levels{
+    position: absolute;
+    right: -150px;
+    top: 55%;
+    transform: translateY(-50%);
+}
+.baz_risk_levels p{
+    font-size: 14px!important;
+}
